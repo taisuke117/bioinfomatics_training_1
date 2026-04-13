@@ -135,11 +135,10 @@ Step 3. 教員への質問
 ```
 .
 ├── README.md          ← この課題説明ファイル
-└── submissions/
-    ├── 提出用フォルダ/
-    │   ├── janken.py
-    │   ├── dna_complement.py
-    │   └── visualization.py
+└── 提出用フォルダ/
+    ├── janken.py
+    ├── dna_complement.py
+    └── visualization.py
     └── ...
 ```
 
@@ -147,4 +146,10 @@ Step 3. 教員への質問
 
 ---
 
-*質問・フィードバックは Issue またはチャットにて受け付けます。*
+*質問・フィードバックは Issuesやメールにて受け付けます。*
+  
+---
+
+## 📞 管理者
+Taisuke Hani
+
